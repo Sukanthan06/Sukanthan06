@@ -1,7 +1,7 @@
 # Hi, I'm Sukanthan 👋
 
 🎓 Third-year CSE student at Amrita Vishwa Vidyapeetham, Coimbatore  
-🤖 Building toward **AI/ML Engineering** and **Backend Systems**  
+🤖 Building toward **AI/ML Engineering** · Exploring LLM systems and backend development  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sukanthan-suresh-6626a7336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukanthan-suresh-6626a7336)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:su.sukanthan@gmail.com)
 
 ---
