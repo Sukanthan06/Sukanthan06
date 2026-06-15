@@ -1,6 +1,6 @@
 # Hi, I'm Sukanthan 👋
 
-🎓 Third-year CSE student at Amrita Vishwa Vidyapeetham, Coimbatore  
+🎓 Third-year CSE(AI) student at Amrita Vishwa Vidyapeetham, Coimbatore  
 🤖 Building toward **AI/ML Engineering** · Exploring LLM systems and backend development  
 
 ---
